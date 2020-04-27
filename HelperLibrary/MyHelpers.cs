@@ -6,5 +6,10 @@
         {
             return platform == "Android" ? "Hello World from Android" : $"Hello World from {platform}";
         }
+
+        public static void TestMethod()
+        {
+
+        }
     }
 }
